@@ -1,0 +1,35 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+.zulu-blocks{
+columns: 3;
+display: flex;
+margin: 3vh;
+padding: 1.5vh;
+}
+
+.zulu-blocks section{
+    padding: 2vw;
+    justify-content: center;
+    text-align: center;
+}
+
+.zulu-blocks img{
+    height: 400px;
+    width: 400px;
+}
+
+.body
+{
+ background-color: beige;
+ background-image: image-set("cave-art-pattern-made-ancient-600nw-2083366819.webp");
+}
+
+body{
+ 
+}
+
